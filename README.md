@@ -9,6 +9,7 @@
 1. PASG: 8-Day MODIS NDVI Percent of Average Season Greenness
    - Indicator of accumulated greenness (or NDVI) during the growing season compared to the historical average for the same point in time. The amount is expressed as a percent of the historical average.
    - PASG values less than 100% indicate below average greenness (poorer than normal vegetation conditions) that may be linked to some form of stress (for example, drought, flooding, fire, hail damage, or pest infestation).
+   - at 250-meter resolution
 2. 
 
 ### Land use/Land cover (LULC)
