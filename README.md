@@ -5,6 +5,15 @@
 ### PV
 1. Massachusetts administrative 2 boundaries from 2020 Census: (https://catalog.data.gov/dataset/2020-cartographic-boundary-file-shp-current-county-subdivision-for-massachusetts-1-500000)
 
+### Food Systems (FS)
+
+1. Food Retailers: (https://experience.arcgis.com/experience/f3de9dc909a54f89985c9df8c01723d7/page/Airtable/?%5B%E2%80%A6%5D16ece44-layer-43-FoodInsecurity_CensusTracts_updated%3A427=null) 
+   - Food retailer locations in 2017.
+2. SNAP retailers: (https://usda-fns.hub.arcgis.com/datasets/8b260f9a10b0459aa441ad8588c2251c_0/explore)
+   - Location data for currently authorized SNAP retailers in 2023.
+3. Emergency Food Providers:
+   - Project Bread Meal Sites: (
+      - Includes statewide data for Food Pantries, Meal Programs, Farm and Garden, Food Rescue, Low Cost Food Program, Voucher Programs, MISC, Other.
 ### GADAS: Global Agricultural & Disaster Assessment System
 1. PASG: 8-Day MODIS NDVI Percent of Average Season Greenness
    - Indicator of accumulated greenness (or NDVI) during the growing season compared to the historical average for the same point in time. The amount is expressed as a percent of the historical average.
