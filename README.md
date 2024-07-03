@@ -14,7 +14,10 @@
 
 ### Land use/Land cover (LULC)
 1. Sentinel-2 10m Land Use/Land Cover Time Series: (https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d)
-   - 2022 land cover class assigned for every pixel
+   - 2022 land cover class assigned for every pixel; designed to "representative snapshot of 2022"
    - Derived from ESA Sentinel-2 imagery at 10-meter resolution
-   - with associated Zonal tools (https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-analyst/an-overview-of-the-zonal-tools.htm) 
-2. 
+   - with associated Zonal tools (https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-analyst/an-overview-of-the-zonal-tools.htm)
+2. MassGIS Land Cover / Land Use Source: (https://resilientma-mapcenter-mass-eoeea.hub.arcgis.com/datasets/3fb3e155432a42c886790bc9bb6449cd_0/explore?location=42.158344%2C-72.546204%2C12.65)
+   - Contains combination of land cover mapping from 2016 aerial imagery and land use derived from standardized assessor parcel information for Massachusetts. Each location in this layer is associated with a land cover class value as well as a parcel use code
+3. Crop Sequence Boundaries (CSBs): (https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries/index.php)
+   - 2015-2022 dataset; comprised of eight consecutive years of stacked crop data layers (CDLs)
