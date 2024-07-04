@@ -12,8 +12,12 @@
 2. SNAP retailers: (https://usda-fns.hub.arcgis.com/datasets/8b260f9a10b0459aa441ad8588c2251c_0/explore)
    - Location data for currently authorized SNAP retailers in 2023.
 3. Emergency Food Providers:
-   - Project Bread Meal Sites: (
+   - Project Bread Meal Sites: (https://datacommon.mapc.org/browser/datasets/161) 
       - Includes statewide data for Food Pantries, Meal Programs, Farm and Garden, Food Rescue, Low Cost Food Program, Voucher Programs, MISC, Other.
+4. SNAP households: 
+   - Household received Food Stamps/SNAP from 2018-2022 by race, at municipal level
+   - Median Household Income from 2017-2021 (In last year of the 5 year average inflation-adjusted dollars) By Annual Receipt Of Food Stamps/Snap
+5. Medicaid Enrollment:
 ### GADAS: Global Agricultural & Disaster Assessment System
 1. PASG: 8-Day MODIS NDVI Percent of Average Season Greenness
    - Indicator of accumulated greenness (or NDVI) during the growing season compared to the historical average for the same point in time. The amount is expressed as a percent of the historical average.
@@ -30,3 +34,6 @@
    - Contains combination of land cover mapping from 2016 aerial imagery and land use derived from standardized assessor parcel information for Massachusetts. Each location in this layer is associated with a land cover class value as well as a parcel use code
 3. Crop Sequence Boundaries (CSBs): (https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries/index.php)
    - 2015-2022 dataset; comprised of eight consecutive years of stacked crop data layers (CDLs)
+4. NLCD 2021 Percent Developed Imperviousness (CONUS): (https://www.mrlc.gov/data/nlcd-2021-percent-developed-imperviousness-conus)
+   - https://www.mrlc.gov/data?f%5B0%5D=category%3ALand%20Cover&f%5B1%5D=category%3AUrban%20Imperviousness&f%5B2%5D=year%3A2021
+   - Impervious surface products give a percent of developed impervious surface for each categorized Landsat pixel. This percentage provides the base for the four types of developed land cover pixel
