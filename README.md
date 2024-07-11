@@ -37,3 +37,5 @@
 4. NLCD 2021 Percent Developed Imperviousness (CONUS): (https://www.mrlc.gov/data/nlcd-2021-percent-developed-imperviousness-conus)
    - https://www.mrlc.gov/data?f%5B0%5D=category%3ALand%20Cover&f%5B1%5D=category%3AUrban%20Imperviousness&f%5B2%5D=year%3A2021
    - Impervious surface products give a percent of developed impervious surface for each categorized Landsat pixel. This percentage provides the base for the four types of developed land cover pixel
+5. WorldCover V2 2021 (https://viewer.esa-worldcover.org/worldcover/)
+   - 
